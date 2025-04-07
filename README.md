@@ -1,3 +1,5 @@
+<img width="1067" alt="budget-site" src="https://github.com/user-attachments/assets/c7f451e1-7952-4440-af8d-3205d1c88ea2" />
+
 # Budget App
 
 A minimalist budgeting application built with React and React Router, designed to help users easily track income, expenses, and manage their budgets.
